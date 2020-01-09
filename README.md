@@ -1,2 +1,2 @@
 # prova_r
-repository di prova con r
+Questa è una frase scritta con RStudio
